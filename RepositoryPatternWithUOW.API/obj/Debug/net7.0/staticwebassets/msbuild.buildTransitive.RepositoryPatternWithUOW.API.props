@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RepositoryPatternWithUOW.API.props" />
+</Project>
